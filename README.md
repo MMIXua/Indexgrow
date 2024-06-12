@@ -32,7 +32,6 @@ Usage
 Run the bot:
 
 ```bash
-Копировать код
 python bot.py```
 Start a conversation with your bot on Telegram.
 
